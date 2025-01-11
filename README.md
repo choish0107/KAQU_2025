@@ -12,7 +12,7 @@ choihajun
 dongwook
 banhyunseung
 kudahyun
-eunseo
 dongjun
+eunseo
 
 
