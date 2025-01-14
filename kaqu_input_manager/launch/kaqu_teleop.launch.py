@@ -18,7 +18,7 @@ def generate_launch_description():
     )
 
     node_kaqu_gamepad = ExecuteProcess(
-        cmd=['ros2', 'run', 'kaqu_teleop', 'kaqu_gamepad_node'],
+        cmd=['ros2', 'run', 'kaqu_input_manager', 'kaqu_gamepad_node'],
         output='screen'
     )
 

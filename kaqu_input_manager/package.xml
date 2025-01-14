@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>kaqu_teleop</name>
+  <name>kaqu_input_manager</name>
   <version>0.0.0</version>
-  <description>PS4 Controller Teleoperation Node</description>
+  <description>Xbox Controller Teleoperation Node</description>
   <maintainer email="choish0107@daum.net">Hajun Choi</maintainer>
   <license>Apache License 2.0</license>
 

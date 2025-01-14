@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(kaqu_teleop)
+project(kaqu_input_manager)
 
 # 기본 패키지
 find_package(ament_cmake REQUIRED)
